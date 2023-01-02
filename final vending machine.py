@@ -39,11 +39,6 @@ stock=270
 #greeting the user when pressing the insert button
 print("WECLOME TO ALWAYS HUNRGY SNACK MACHINE VENDING MACHINE!")
 
-#stock_input=int(input("how many items would you like to add?"))
-#stock=70
-if stock_input > stock:
-#   print("out of stock!")
-
 
 while True:
     opt=int(input('''PLEASE SELECT ONE OF THE CATEGORY'S. MENU:
